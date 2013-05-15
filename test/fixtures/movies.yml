@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  year: 
+  raiting: 1
+  descrption: MyText
+
+two:
+  name: MyString
+  year: 
+  raiting: 1
+  descrption: MyText
